@@ -1,0 +1,17 @@
+.mybg{
+    background-color: #044556;
+}
+.imgsize{
+    width: 40%;
+
+}
+@media(min-width: 768px){
+    .news-input{
+        width: 50%;
+    }
+}
+.imgsizee{
+    width: 25%
+
+}
+;
